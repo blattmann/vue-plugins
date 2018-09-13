@@ -1,5 +1,8 @@
 # stanwood vue-plugins
 
+[![VueJS v2 compatible](https://img.shields.io/badge/Vuejs%202-compatible-green.svg)](https://vuejs.org/)
+[![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+
 ## Install
 
 ```
